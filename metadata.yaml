@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/922
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36349#Visionen-und-andere-phantastische-Erz-hlungen
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-06-07'
 gutenberg_type: Text
