@@ -1,0 +1,44 @@
+_repo: Visionen-und-andere-phantastische-Erz-hlungen_36349
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Eliasberg, Alexander
+    alias: Эліасберг, Александр
+    birthdate: 1878
+    deathdate: 1924
+    gutenberg_agent_id: '38223'
+    url: http://www.gutenberg.org/2009/agents/38223
+covers:
+- cover_type: archival
+  image_path: 36349-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Tourgueneff, Ivan
+    - Тургенев, Иван Сергеевич
+    - Toergenev, Ivan
+    - Turgénieff, Iván
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36349'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcsh 'Turgenev, Ivan Sergeevich, 1818-1883 -- Translations into German'
+- !lcc 'PG'
+tableOfContents: Drei Begegnungen (1861) -- Visionen (1863) -- Der Hund (1866) --
+  Das Lied der triumphierenden Liebe (1881) -- Ein Traum (1876).
+title: Visionen und andere phantastische Erzählungen
+url: http://www.gutenberg.org/ebooks/36349
